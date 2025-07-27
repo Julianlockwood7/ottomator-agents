@@ -1,4 +1,4 @@
-FROM python:3.11-slim
+FROM python:3.14.0rc1-slim
 
 # Build argument for port with default value
 ARG PORT=8001
